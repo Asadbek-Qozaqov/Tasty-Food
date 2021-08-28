@@ -37,7 +37,7 @@ function Footer(props) {
                 <div className="footer__content">
                     <h3 className="footer__title">Adress</h3>
                     <ul>
-                        <li>Yunuobod - Tashkent</li>
+                        <li>Yunusobod - Tashkent</li>
                         <li>Jr Union #999</li>
                         <li>999 - 888 - 777</li>
                         <li>tastyfood@email.com</li>

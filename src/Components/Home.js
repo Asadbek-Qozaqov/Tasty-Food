@@ -1,6 +1,7 @@
 import React from 'react';
 
-function Home(props) {
+function Home() {
+
     return (
         <section className="home" id="home">
             <div className="home__container bd-container bd-grid">
